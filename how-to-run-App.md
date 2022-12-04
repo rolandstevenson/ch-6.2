@@ -29,6 +29,6 @@ In this repository have 2 category Endpoints : authentication dan CRUD Car.
 - Edit car = http://localhost:3001/api/v1/car/edit/:id method PUT (access only admin or superadmin)
 - Delete car = http://localhost:3001/api/v1/car/delete/:id method DELETE (access only admin or superadmin)
 
-# Documentation REST on Postman
+# Documentation REST on Postman and Swagger
 
-https://documenter.getpostman.com/view/5808389/2s84DkUjjW
+on progress
